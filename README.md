@@ -1,5 +1,5 @@
 # python-tkinter-calculator
-Second project: Python Tkinter calculator app showcasing GUI and core Python skills.
+Second project: Python Tkinter calculator app showcasing GUI and core Python skills and learning through various mediums.
 
 ## Features
 - CLI calculator (`cli.py`)
